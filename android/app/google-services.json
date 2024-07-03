@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647658294177",
+    "project_id": "projectakhirmobilelanjut",
+    "storage_bucket": "projectakhirmobilelanjut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647658294177:android:f71ace7e8bf5a223c859e0",
+        "android_client_info": {
+          "package_name": "com.example.wargamart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIS6z-r8QVfQLDAJbH_D-yoiyMG34Fy1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
